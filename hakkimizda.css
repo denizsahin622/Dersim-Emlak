@@ -1,0 +1,40 @@
+.hakkimizda{
+    margin-top: 2%;
+    width: calc(100%-10);
+    height: 1150px;
+    padding: 20px;
+    background-color: #D0D1C3;
+}
+.logo{
+    justify-self: center;
+    width: 350px;
+    height: 350px;
+    background-image: url(logo.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.beyaz{
+    color: black;
+    font-size: 23px;
+    text-align: center;
+margin-left: 7%;
+margin-right: 7%;}
+
+    .baslikparagraf{
+        color:black;
+        font-size: 45px;
+        text-align: center;
+        font-weight: bold;}
+        .bitis2{
+            color: black;
+            font-size: 35px;
+            text-align: center;
+            font-weight: bolder;
+        }
+        .bitis{
+            color: black;
+            font-size: 27px;
+            text-align: center;
+            font-weight: bold;
+        }

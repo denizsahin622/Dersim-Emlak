@@ -1,0 +1,136 @@
+.evler15{
+margin-top: 2%;
+    width: calc(100%-40px);
+    height: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #D0D1C3;
+}
+.ev{
+    width: 350px;
+    height: 350px;  
+
+    background-color: aqua;
+    border-radius: 12px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.558);
+    margin-top: 2%;
+    margin-bottom: 2%;
+    
+}
+#ev1{
+    background-image: url(ev1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev2{
+    background-image: url(ev2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}#ev3{
+    background-image: url(ev3.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}#ev4{
+    background-image: url(ev4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}#ev5{
+    background-image: url(ev5.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}#ev6{
+    background-image: url(ev6.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}#ev7{
+    background-image: url(ev7.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}#ev8{
+    background-image: url(ev8.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev9{
+    background-image: url(ev9.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev10{
+    background-image: url(ev10.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev11{
+    background-image: url(ev11.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev12{
+    background-image: url(ev12.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev13{
+    background-image: url(ev13.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev14{
+    background-image: url(ev14.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ev15{
+    background-image: url(ev15.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ilan{
+height: auto;
+width: 350px;
+margin-left: 40px;
+margin-right: 40px;
+}
+.bilgi{
+     height: 200px;
+    width: 100%;
+
+}
+ul{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    width: 50%;
+}
+h2{
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.sol{
+    float: left;
+    width: 50%;
+    margin-top: 0;
+}

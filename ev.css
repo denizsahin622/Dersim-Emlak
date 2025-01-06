@@ -1,0 +1,75 @@
+.govde{
+    margin-top: 2%;
+    width: calc(100%-40px);
+    height: 700px;
+    padding: 20px;
+    
+    justify-content: center;
+    align-items: left;
+    flex-wrap: wrap;
+    background-color: #D0D1C3;
+}
+.kutusol{
+    margin-top: 2%;
+    width: 40%;
+    height: 600px;
+    padding: 20px;
+    background-color: black;
+
+}
+.kutusag{
+    margin-top: 2%;
+    width: 54.5%;
+    height: 600px;
+    padding: 20px;
+    background-color: rgba(47, 43, 43, 0.321);
+    float: right;
+    text-align: right;
+}
+
+#ev1{
+    background-image: url(ev1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#ev2{
+    background-image: url(ev2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+.sol{
+    float: left;
+    width: 50%;
+    margin-bottom: 10px;
+    font-size: 30px;
+   text-align: left;
+}.sag{
+    float: left;
+    width: 50%;
+    margin-bottom: 10px;
+    font-size: 30px;
+   text-align: left;
+
+}
+.fiyat{
+    width: 80%;
+    margin-bottom: 10px;
+    font-size: 100px;
+    align-items: center;  
+    justify-content: center;
+}
+p { margin: 0; }
+.satinal{
+    width: 70%;
+    font-size: 45px;
+    align-items: center;  
+    justify-content: center;
+    font-style: oblique;
+    float:inline-start;
+    
+    
+
+}

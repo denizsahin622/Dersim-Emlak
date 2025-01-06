@@ -1,0 +1,45 @@
+.iletisim{
+    margin-top: 2%;
+    width: calc(100%-10);
+    height:600px;
+    padding: 20px;
+    background-color: #D0D1C3;
+}
+.kutusol{
+    margin-top: 2%;
+    width: 48%;
+    height: 500px;
+    padding: 20px;
+    background-color: #787878;
+}
+.kutusag{
+    margin-top: 2%;
+    width: 48%;
+    height: 500px;
+    padding: 20px;
+    background-color: white;
+    float: right;
+}
+#baslik{
+    color:black;
+        font-size: 45px;
+        text-align: center;
+        font-weight: bold;
+}
+#yazi{
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 35px;
+   text-align: center;
+   color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+i{
+    color: rgb(213, 203, 203);
+}
+
+
+
